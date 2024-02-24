@@ -2,7 +2,7 @@
   "name": "react-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://EsotericSquishyy.github.io/react-test",
+  "homepage": "https://esotericsquishyy.github.io/react-test/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
